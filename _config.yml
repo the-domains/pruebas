@@ -1,0 +1,28 @@
+name: pruebas
+favicon: null
+layout_spectrum: 0.41017759311944246
+typography_spectrum: 0.1471635401248932
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.09160995972342789
+  lightness: 0.8206311599351466
+  saturation: 0.1723302686586976
+  rhythmicContrast: 0.9865811096969992
+purpose: []
